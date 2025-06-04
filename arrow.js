@@ -105,13 +105,13 @@
 
 
 
-// //backened data
-// const customerResponse={
-//     status:200,
-//     message:"Customer fetched successfully",
-//     data:customer,
+//backened data
+const customerResponse={
+    status:200,
+    message:"Customer fetched successfully",
+    data:customer,
 
-// }
+}
 // //arrow function 
 // const getProductsNames = () => {
 //     if (customerResponse.status === 200) {
